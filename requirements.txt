@@ -1,3 +1,6 @@
 langchain
-langchain_community
+langchain-groq
 streamlit
+faiss-cpu
+sentence-transformers
+pdfminer.six
